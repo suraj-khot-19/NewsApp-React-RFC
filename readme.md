@@ -1,6 +1,6 @@
 # News App 📰
 
-A simple and responsive news app built using **React** and **Webpack**, fetching real-time news using the [News API](https://newsapi.org/).
+A simple and responsive news app built using **`React`** and **`Webpack`**, fetching real-time news using the [News API](https://newsapi.org/).
 
 ## Features ✨
 
