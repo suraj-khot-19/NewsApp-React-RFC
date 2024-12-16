@@ -8,7 +8,7 @@ A simple and responsive news app built using **`React`** and **`Webpack`**, fetc
 - Search functionality to find articles.
 - Fully responsive design for all devices.
 - Dynamic routing for viewing news categories or individual articles.
-
+- Using infinite scroll package for great user experience.
 ---
 
 ## Installation and Setup 🚀
